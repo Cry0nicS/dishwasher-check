@@ -2,14 +2,14 @@
   "marketplace": "de",
   "currency": "EUR",
   "models": [
-    {"rank": 1, "name": "Bosch SMV4EVX08E", "asin": "B0DFQDYFXC", "url": "https://www.amazon.de/dp/B0DFQDYFXC", "history": [{"date": "2026-11-14", "price": 518.90}]},
-    {"rank": 2, "name": "NEFF N 50 S255EVX04E (XXL)", "asin": "B0DFHJYHC5", "url": "https://www.amazon.de/dp/B0DFHJYHC5", "history": [{"date": "2026-11-14", "price": 527.00}]},
-    {"rank": 3, "name": "NEFF N 50 S155EVX04E", "asin": "B0DFHKVDTK", "url": "https://www.amazon.de/dp/B0DFHKVDTK", "history": [{"date": "2026-11-14", "price": 519.00}]},
-    {"rank": 4, "name": "Siemens iQ300 SN63EX06VE", "asin": "B0DFMHBHWH", "url": "https://www.amazon.de/dp/B0DFMHBHWH", "history": [{"date": "2026-11-14", "price": 549.99}]},
-    {"rank": 5, "name": "Bauknecht BK4IB14BN7LA0S", "asin": "B0DDCTHCZY", "url": "https://www.amazon.de/dp/B0DDCTHCZY", "history": [{"date": "2026-11-14", "price": 499.00}]},
-    {"rank": 6, "name": "Bosch SBV4ECX32E (XXL)", "asin": "B0DMFS36LM", "url": "https://www.amazon.de/dp/B0DMFS36LM", "history": [{"date": "2026-11-14", "price": 588.00}]},
-    {"rank": 7, "name": "Bosch SMV4ECX32E", "asin": "B0DMFPBDN7", "url": "https://www.amazon.de/dp/B0DMFPBDN7", "history": [{"date": "2026-11-14", "price": 588.00}]},
-    {"rank": 8, "name": "Beko BDDN36550XP", "asin": "B0FM8BPWGZ", "url": "https://www.amazon.de/dp/B0FM8BPWGZ", "history": [{"date": "2026-11-14", "price": 436.97}]},
-    {"rank": 9, "name": "Bosch SMU4ECS32E", "asin": "B0DMFS9VGB", "url": "https://www.amazon.de/dp/B0DMFS9VGB", "history": [{"date": "2026-11-14", "price": 588.00}]}
+    {"rank": 1, "name": "Bosch SMV4EVX08E", "asin": "B0DFQDYFXC", "url": "https://www.amazon.de/dp/B0DFQDYFXC", "history": [{"date": "2026-11-14", "price": 518.90}, {"date": "2026-11-15", "price": 518.90}]},
+    {"rank": 2, "name": "NEFF N 50 S255EVX04E (XXL)", "asin": "B0DFHJYHC5", "url": "https://www.amazon.de/dp/B0DFHJYHC5", "history": [{"date": "2026-11-14", "price": 527.00}, {"date": "2026-11-15", "price": 527.00}]},
+    {"rank": 3, "name": "NEFF N 50 S155EVX04E", "asin": "B0DFHKVDTK", "url": "https://www.amazon.de/dp/B0DFHKVDTK", "history": [{"date": "2026-11-14", "price": 519.00}, {"date": "2026-11-15", "price": 519.00}]},
+    {"rank": 4, "name": "Siemens iQ300 SN63EX06VE", "asin": "B0DFMHBHWH", "url": "https://www.amazon.de/dp/B0DFMHBHWH", "history": [{"date": "2026-11-14", "price": 549.99}, {"date": "2026-11-15", "price": 549.99}]},
+    {"rank": 5, "name": "Bauknecht BK4IB14BN7LA0S", "asin": "B0DDCTHCZY", "url": "https://www.amazon.de/dp/B0DDCTHCZY", "history": [{"date": "2026-11-14", "price": 499.00}, {"date": "2026-11-15", "price": 499.00}]},
+    {"rank": 6, "name": "Bosch SBV4ECX32E (XXL)", "asin": "B0DMFS36LM", "url": "https://www.amazon.de/dp/B0DMFS36LM", "history": [{"date": "2026-11-14", "price": 588.00}, {"date": "2026-11-15", "price": 515.31}]},
+    {"rank": 7, "name": "Bosch SMV4ECX32E", "asin": "B0DMFPBDN7", "url": "https://www.amazon.de/dp/B0DMFPBDN7", "history": [{"date": "2026-11-14", "price": 588.00}, {"date": "2026-11-15", "price": 588.00}]},
+    {"rank": 8, "name": "Beko BDDN36550XP", "asin": "B0FM8BPWGZ", "url": "https://www.amazon.de/dp/B0FM8BPWGZ", "history": [{"date": "2026-11-14", "price": 436.97}, {"date": "2026-11-15", "price": 435.17}]},
+    {"rank": 9, "name": "Bosch SMU4ECS32E", "asin": "B0DMFS9VGB", "url": "https://www.amazon.de/dp/B0DMFS9VGB", "history": [{"date": "2026-11-14", "price": 588.00}, {"date": "2026-11-15", "price": 588.00}]}
   ]
 }
