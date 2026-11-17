@@ -16,5 +16,15 @@
     {"rank": 1, "name": "Govee Floor Lamp 3 (H16B0)", "asin": "B0GS162H3T", "url": "https://www.amazon.de/dp/B0GS162H3T", "target_min": 115, "target_max": 130, "history": [{"date": "2026-11-15", "price": 169.99}, {"date": "2026-11-16", "price": 118.99}]},
     {"rank": 2, "name": "Govee Floor Lamp 3 Lite (H16C0)", "asin": "B0GR5L8G4M", "url": "https://www.amazon.de/dp/B0GR5L8G4M", "target_min": 69.99, "target_max": 79.99, "history": [{"date": "2026-11-15", "price": 119.99}, {"date": "2026-11-16", "price": 79.99}]},
     {"rank": 3, "name": "SwitchBot RGBICWW Floor Lamp (W1702101)", "asin": "B0FJFX6JK9", "url": "https://www.amazon.de/dp/B0FJFX6JK9", "target_min": 44.99, "target_max": 44.99, "history": [{"date": "2026-11-15", "price": 44.99}, {"date": "2026-11-16", "price": 44.99}]}
+  ],
+  "chargers": [
+    {"rank": 1, "name": "Anker 140W 4-Port (A2697)", "asin": "B0DK5F58HW", "url": "https://www.amazon.de/dp/B0DK5F58HW", "history": [{"date": "2026-11-17", "price": 66.28}]},
+    {"rank": 2, "name": "Anker Prime 200W 6-Port (A2683)", "asin": "B0CZ7BN1MF", "url": "https://www.amazon.de/dp/B0CZ7BN1MF", "history": [{"date": "2026-11-17", "price": 56.95}]},
+    {"rank": 3, "name": "UGREEN Nexode Pro 160W 4-Port", "asin": "B0CCXTZHHF", "url": "https://www.amazon.de/dp/B0CCXTZHHF", "history": [{"date": "2026-11-17", "price": 68.50}]}
+  ],
+  "cables": [
+    {"rank": 1, "name": "Anker 240W USB-C cable, 2-pack 1m", "asin": "B0DXDYVTMK", "url": "https://www.amazon.de/dp/B0DXDYVTMK", "history": [{"date": "2026-11-17", "price": 12.33}]},
+    {"rank": 2, "name": "UGREEN 240W USB-C cable 40Gbps", "asin": "B0DZP21RXY", "url": "https://www.amazon.de/dp/B0DZP21RXY", "history": [{"date": "2026-11-17", "price": 11.46}]},
+    {"rank": 3, "name": "UGREEN 100W USB-C cable", "asin": "B07V7MY46W", "url": "https://www.amazon.de/dp/B07V7MY46W", "history": [{"date": "2026-11-17", "price": 8.09}]}
   ]
 }
