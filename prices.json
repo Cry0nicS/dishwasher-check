@@ -482,5 +482,35 @@
         }
       ]
     }
+  ],
+  "minipcs": [
+    {
+      "rank": 1,
+      "name": "Lenovo ThinkCentre M710q Tiny i5-6500T 8GB/128GB (refurbished)",
+      "asin": "B0GGBBSHPD",
+      "url": "https://www.amazon.de/dp/B0GGBBSHPD",
+      "history": []
+    },
+    {
+      "rank": 2,
+      "name": "Lenovo ThinkCentre M910q Tiny i5 8GB/256GB (refurbished)",
+      "asin": "B0B2MLV1LB",
+      "url": "https://www.amazon.de/dp/B0B2MLV1LB",
+      "history": []
+    },
+    {
+      "rank": 3,
+      "name": "AWOW AK10 Pro N100 16GB/512GB",
+      "asin": "B0GHQCXNR6",
+      "url": "https://www.amazon.de/dp/B0GHQCXNR6",
+      "history": []
+    },
+    {
+      "rank": 4,
+      "name": "Beelink S12 N95 8GB/256GB",
+      "asin": "B0DPC1LVRF",
+      "url": "https://www.amazon.de/dp/B0DPC1LVRF",
+      "history": []
+    }
   ]
 }
