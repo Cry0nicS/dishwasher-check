@@ -62,7 +62,7 @@
         },
         {
           "date": "2026-11-19",
-          "price": 539
+          "price": 527
         }
       ]
     },
@@ -94,7 +94,7 @@
         },
         {
           "date": "2026-11-19",
-          "price": 519
+          "price": 530.05
         }
       ]
     },
@@ -489,28 +489,48 @@
       "name": "Lenovo ThinkCentre M710q Tiny i5-6500T 8GB/128GB (refurbished)",
       "asin": "B0GGBBSHPD",
       "url": "https://www.amazon.de/dp/B0GGBBSHPD",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-19",
+          "price": 149
+        }
+      ]
     },
     {
       "rank": 2,
       "name": "Lenovo ThinkCentre M910q Tiny i5 8GB/256GB (refurbished)",
       "asin": "B0B2MLV1LB",
       "url": "https://www.amazon.de/dp/B0B2MLV1LB",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-19",
+          "price": 154.85
+        }
+      ]
     },
     {
       "rank": 3,
       "name": "AWOW AK10 Pro N100 16GB/512GB",
       "asin": "B0GHQCXNR6",
       "url": "https://www.amazon.de/dp/B0GHQCXNR6",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-19",
+          "price": 209
+        }
+      ]
     },
     {
       "rank": 4,
       "name": "Beelink S12 N95 8GB/256GB",
       "asin": "B0DPC1LVRF",
       "url": "https://www.amazon.de/dp/B0DPC1LVRF",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-19",
+          "price": 259
+        }
+      ]
     }
   ]
 }
