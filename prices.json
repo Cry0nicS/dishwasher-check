@@ -102,7 +102,7 @@
         },
         {
           "date": "2026-11-20",
-          "price": 532.71
+          "price": 519.99
         }
       ]
     },
@@ -556,28 +556,48 @@
       "name": "AWOW AK10 N95 16GB/512GB",
       "asin": "B0GQZ5XJ6F",
       "url": "https://www.amazon.de/dp/B0GQZ5XJ6F",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-20",
+          "price": 299
+        }
+      ]
     },
     {
       "rank": 3,
       "name": "GMKtec G3 Ultra Pentium Gold 7505 16GB/256GB, 2.5GbE",
       "asin": "B0F9FS819H",
       "url": "https://www.amazon.de/dp/B0F9FS819H",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-20",
+          "price": 289.96
+        }
+      ]
     },
     {
       "rank": 4,
       "name": "GMKtec G11 Ryzen Embedded R2514 16GB/256GB, dual 2.5GbE",
       "asin": "B0GV2G9ZJ2",
       "url": "https://www.amazon.de/dp/B0GV2G9ZJ2",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-20",
+          "price": 299.96
+        }
+      ]
     },
     {
       "rank": 5,
       "name": "Beelink S12 Pro N100 16GB/500GB",
       "asin": "B0B7WCTXMT",
       "url": "https://www.amazon.de/dp/B0B7WCTXMT",
-      "history": []
+      "history": [
+        {
+          "date": "2026-11-20",
+          "price": 359
+        }
+      ]
     }
   ]
 }
