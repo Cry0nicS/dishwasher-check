@@ -546,67 +546,38 @@
   "minipcs": [
     {
       "rank": 1,
-      "name": "Lenovo ThinkCentre M710q Tiny i5-6500T 8GB/128GB (refurbished)",
-      "asin": "B0GGBBSHPD",
-      "url": "https://www.amazon.de/dp/B0GGBBSHPD",
-      "history": [
-        {
-          "date": "2026-11-19",
-          "price": 149
-        },
-        {
-          "date": "2026-11-20",
-          "price": 149
-        }
-      ]
+      "name": "GMKtec G5 N97 16GB/256GB",
+      "asin": "B0D1MGL9RC",
+      "url": "https://www.amazon.de/dp/B0D1MGL9RC",
+      "history": []
     },
     {
       "rank": 2,
-      "name": "Lenovo ThinkCentre M910q Tiny i5 8GB/256GB (refurbished)",
-      "asin": "B0B2MLV1LB",
-      "url": "https://www.amazon.de/dp/B0B2MLV1LB",
-      "history": [
-        {
-          "date": "2026-11-19",
-          "price": 154.85
-        },
-        {
-          "date": "2026-11-20",
-          "price": 154.85
-        }
-      ]
+      "name": "AWOW AK10 N95 16GB/512GB",
+      "asin": "B0GQZ5XJ6F",
+      "url": "https://www.amazon.de/dp/B0GQZ5XJ6F",
+      "history": []
     },
     {
       "rank": 3,
-      "name": "AWOW AK10 Pro N100 16GB/512GB",
-      "asin": "B0GHQCXNR6",
-      "url": "https://www.amazon.de/dp/B0GHQCXNR6",
-      "history": [
-        {
-          "date": "2026-11-19",
-          "price": 209
-        },
-        {
-          "date": "2026-11-20",
-          "price": 209
-        }
-      ]
+      "name": "GMKtec G3 Ultra Pentium Gold 7505 16GB/256GB, 2.5GbE",
+      "asin": "B0F9FS819H",
+      "url": "https://www.amazon.de/dp/B0F9FS819H",
+      "history": []
     },
     {
       "rank": 4,
-      "name": "Beelink S12 N95 8GB/256GB",
-      "asin": "B0DPC1LVRF",
-      "url": "https://www.amazon.de/dp/B0DPC1LVRF",
-      "history": [
-        {
-          "date": "2026-11-19",
-          "price": 259
-        },
-        {
-          "date": "2026-11-20",
-          "price": 259
-        }
-      ]
+      "name": "GMKtec G11 Ryzen Embedded R2514 16GB/256GB, dual 2.5GbE",
+      "asin": "B0GV2G9ZJ2",
+      "url": "https://www.amazon.de/dp/B0GV2G9ZJ2",
+      "history": []
+    },
+    {
+      "rank": 5,
+      "name": "Beelink S12 Pro N100 16GB/500GB",
+      "asin": "B0B7WCTXMT",
+      "url": "https://www.amazon.de/dp/B0B7WCTXMT",
+      "history": []
     }
   ]
 }
