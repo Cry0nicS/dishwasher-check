@@ -599,5 +599,31 @@
         }
       ]
     }
+  ],
+  "bookshelves": [
+    {
+      "rank": 1,
+      "name": "Bealife 5-tier staggered bookshelf 98x30x180cm (preferred)",
+      "asin": "B0CLTRGMJ2",
+      "url": "https://www.amazon.de/dp/B0CLTRGMJ2",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "price": 75.99
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Tribesigns 6-tier industrial etagere bookshelf 70x30x180cm",
+      "asin": "B0BSPHNXCL",
+      "url": "https://www.amazon.de/dp/B0BSPHNXCL",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "price": 70.54
+        }
+      ]
+    }
   ]
 }
